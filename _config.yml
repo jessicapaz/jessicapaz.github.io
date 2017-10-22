@@ -1,10 +1,10 @@
 # Site
 title:              'Jessica Paz'
 bio:                'Computer Engineering Student, Newbie Developer, Pythonist and PyLadies Belem Founder.'
-description:        "Computer Engineering Student, open source enthusiast, Pythonist and PyLadies Belem Founder."
+description:        "Computer Engineering Student, Newbie Developer, Pythonist and PyLadies Belem Founder."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/jessica.jpg'
 #background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
