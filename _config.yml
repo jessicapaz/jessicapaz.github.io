@@ -8,7 +8,7 @@ logo:               'assets/img/jessica.jpg'
 #background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://jessicapaz.github.io
+url:                https://jessicapaz.me
 
 # Jekyll
 permalink:          /:title/
@@ -42,7 +42,7 @@ email:              jessicamorim.42@gmail.com
 facebook:           jessicamorim.42
 github-url:         jessicapaz
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           jessica-amorim-paz
+linkedin:           jessica-paz
 #xing:              username
 #instagram:          username
 #lastfm:            username
